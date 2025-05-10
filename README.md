@@ -1,8 +1,8 @@
 # Exercise-5-Web-Scraping-Data
 
 ~~~
-Name : JOHN PALL M
-Reg.No : 212224040140
+Name : FRANKLIN
+Reg.No : 212224240041
 ~~~
 
 ## Aim:
